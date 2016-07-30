@@ -1,0 +1,1 @@
+mvn exec:java -e -Dexec.classpathScope=runtime -Dexec.mainClass="es.interviews.euris.invoiceapp.InvoiceSortMain" -Dexec.args="%1 %2"
