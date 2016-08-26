@@ -1,5 +1,5 @@
 # InvoiceSort
-This program take in input a CSV file containing invoices data, compute the due date for each invoice, reorder theme by due date and finally store them into a new CSV file.
+This program takes in input a CSV file containing invoices data, compute the due date for each invoice, reorder them by due date and finally store them into a new CSV file.
 
 ## Requirements for Usage
 - JDK 1.8
